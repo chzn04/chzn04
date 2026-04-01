@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+# I'm ....
+YUN CE / chanjun Lee / 22321634
 <!--
 **chzn04/chzn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
