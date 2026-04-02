@@ -1,9 +1,21 @@
 ## Hi there 👋
 
 
-# I'm ....
-ChanJun Lee.
-Sophomore in Computer Engineering at Yeungnam University.
+# I'm...
+**ChanJun Lee.**
+
+I am a sophomore student at Yeungnam University.
+
+# About me
+- University: Yeungnam University
+- Major: Computer Engineering
+- Grade: 2nd Year (Sophomore)
+
+# Interests
+- C++ Programming
+- Solving Algorithms
+- Web Development
+
 <!--
 **chzn04/chzn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
