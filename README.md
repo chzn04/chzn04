@@ -2,7 +2,8 @@
 
 
 # I'm ....
-YUN CE / chanjun Lee / 22321634
+ChanJun Lee.
+Sophomore in Computer Engineering at Yeungnam University.
 <!--
 **chzn04/chzn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
